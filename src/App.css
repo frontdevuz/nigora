@@ -16,6 +16,10 @@
     outline-offset: 2px;
   }
 }
+body{
+  background-color: pink;
+  height:100vh;
+}
 
 .hero {
   position: relative;
